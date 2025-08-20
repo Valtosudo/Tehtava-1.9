@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
+        List<string> kirjat = new List<string>();
+
+        Kirjasto.Kirjastoclass kirjastoclass = new Kirjasto.Kirjastoclass("Nimi", "Kirjoittaja", "Genre");
+
         Console.WriteLine("Hei, tervetuloa kirjastoon !");
 
         while (true)
