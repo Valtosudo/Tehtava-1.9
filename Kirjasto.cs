@@ -32,6 +32,21 @@ namespace Kirjasto
             kirjat.Add($"{uusiKirja.Nimi} - {uusiKirja.Kirjoittaja} - {uusiKirja.Genre}");
             Console.WriteLine("Kirja lisätty onnistuneesti!");
         }
+
+        public void poistaKirja(List<string> kirjat)
+        {
+            Console.WriteLine("Anna poistettavan kirjan nimi:");
+            string? nimi = Console.ReadLine();
+
+            if (kirjat.RemoveAll(k => k.Contains(nimi)) > 0)
+            {
+                Console.WriteLine("Kirja poistettu onnistuneesti!");
+            }
+            else
+            {
+                Console.WriteLine("Kirjaa ei löytynyt.");
+            }
+        }
         
     }
 }

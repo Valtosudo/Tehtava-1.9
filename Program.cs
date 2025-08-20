@@ -27,8 +27,13 @@ class Program
             {
                 kirjastoclass.lisaaKirja(kirjat);
             }
-            else
+            else if (vastaus == 2)
             {
+                kirjastoclass.poistaKirja(kirjat);
+            }
+            else if (vastaus == 6)
+            {
+                Console.WriteLine("Kiitos ja näkemiin!");
                 break;
             }
         }
