@@ -35,7 +35,11 @@ class Program
             {
                 kirjastoclass.naytaKaikkiKirjat(kirjat);
             }
-            else if(vastaus == 6)
+            else if (vastaus == 4)
+            {
+                kirjastoclass.kirjatGendrenMukaan(kirjat);
+            }
+            else if (vastaus == 6)
             {
                 Console.WriteLine("Kiitos ja näkemiin!");
                 break;
