@@ -47,6 +47,22 @@ namespace Kirjasto
                 Console.WriteLine("Kirjaa ei löytynyt.");
             }
         }
+
+        public void naytaKaikkiKirjat(List<string> kirjat)
+        {
+            if (kirjat.Count == 0)
+            {
+                Console.WriteLine("Ei kirjoja kirjastossa.");
+            }
+            else
+            {
+                Console.WriteLine("Kaikki kirjat:");
+                foreach (string kirja in kirjat)
+                {
+                    Console.WriteLine(kirja);
+                }
+            }
+        }
         
     }
 }

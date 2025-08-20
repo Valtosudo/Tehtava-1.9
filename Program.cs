@@ -31,7 +31,11 @@ class Program
             {
                 kirjastoclass.poistaKirja(kirjat);
             }
-            else if (vastaus == 6)
+            else if (vastaus == 3)
+            {
+                kirjastoclass.naytaKaikkiKirjat(kirjat);
+            }
+            else if(vastaus == 6)
             {
                 Console.WriteLine("Kiitos ja näkemiin!");
                 break;
