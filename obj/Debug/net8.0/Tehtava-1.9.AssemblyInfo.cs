@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tehtava-1.9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b59071e6a75d39c70c4a33de11609a89ae1e315e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1444c62a210cdaca4657d6a1547b739d989dde59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tehtava-1.9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tehtava-1.9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
