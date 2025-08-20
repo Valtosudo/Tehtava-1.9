@@ -32,5 +32,6 @@ namespace Kirjasto
             kirjat.Add($"{uusiKirja.Nimi} - {uusiKirja.Kirjoittaja} - {uusiKirja.Genre}");
             Console.WriteLine("Kirja lisätty onnistuneesti!");
         }
+        
     }
 }
