@@ -1,4 +1,6 @@
-﻿namespace Tehtava_1._9;
+﻿using Kirjasto;
+
+namespace Tehtava_1._9;
 
 class Program
 {
@@ -20,7 +22,15 @@ class Program
             Console.WriteLine("Jos haluat lopettaa ohjelman laita 6");
 
             int vastaus = Convert.ToInt32(Console.ReadLine());
-            break;
+
+            if (vastaus == 1)
+            {
+                kirjastoclass.lisaaKirja(kirjat);
+            }
+            else
+            {
+                break;
+            }
         }
     }
 }
