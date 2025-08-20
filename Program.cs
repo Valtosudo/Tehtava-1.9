@@ -39,6 +39,10 @@ class Program
             {
                 kirjastoclass.kirjatGendrenMukaan(kirjat);
             }
+            else if (vastaus == 5)
+            {
+                kirjastoclass.loydaKirja(kirjat);
+            }
             else if (vastaus == 6)
             {
                 Console.WriteLine("Kiitos ja näkemiin!");

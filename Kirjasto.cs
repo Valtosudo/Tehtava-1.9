@@ -84,6 +84,30 @@ namespace Kirjasto
                 }
             }
         }
-        
+
+        public void loydaKirja(List<string> kirjat)
+        {
+            Console.WriteLine("Haluatko etsiä kirjaa kirjoittajan vai nimen perusteella? (1: Kirjoittaja, 2: Nimi)");
+            int valinta = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Anna hakusana:");
+            string? hakusana = Console.ReadLine();
+
+            var loydetytKirjat = kirjat.Where(k => (valinta == 1 && k.Contains(hakusana)) || (valinta == 2 && k.Contains(hakusana))).ToList();
+
+            if (loydetytKirjat.Count == 0)
+            {
+                Console.WriteLine("Ei löytynyt kirjoja.");
+            }
+            else
+            {
+                Console.WriteLine("Löydetyt kirjat:");
+                foreach (string kirja in loydetytKirjat)
+                {
+                    Console.WriteLine(kirja);
+                }
+            }
+        }
+
     }
 }
