@@ -63,6 +63,27 @@ namespace Kirjasto
                 }
             }
         }
+
+        public void kirjatGendrenMukaan(List<string> kirjat)
+        {
+            Console.WriteLine("Anna genre:");
+            string? genre = Console.ReadLine();
+
+            var gendrenKirjat = kirjat.Where(k => k.Contains(genre)).ToList();
+
+            if (gendrenKirjat.Count == 0)
+            {
+                Console.WriteLine("Ei kirjoja tällä genrellä.");
+            }
+            else
+            {
+                Console.WriteLine($"Kirjat genressä {genre}:");
+                foreach (string kirja in gendrenKirjat)
+                {
+                    Console.WriteLine(kirja);
+                }
+            }
+        }
         
     }
 }

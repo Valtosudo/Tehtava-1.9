@@ -1,0 +1,15 @@
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\bin\Debug\net8.0\Tehtava-1.9.exe
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\bin\Debug\net8.0\Tehtava-1.9.deps.json
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\bin\Debug\net8.0\Tehtava-1.9.runtimeconfig.json
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\bin\Debug\net8.0\Tehtava-1.9.dll
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\bin\Debug\net8.0\Tehtava-1.9.pdb
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.AssemblyInfoInputs.cache
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.AssemblyInfo.cs
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.csproj.CoreCompileInputs.cache
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.sourcelink.json
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.dll
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\refint\Tehtava-1.9.dll
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.pdb
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\Tehtava-1.9.genruntimeconfig.cache
+C:\Users\valts\OneDrive\Tiedostot\Ohkesyksy25 BottiKoodi\tehtava 1.9\Tehtava-1.9\obj\Debug\net8.0\ref\Tehtava-1.9.dll
